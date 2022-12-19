@@ -23,3 +23,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishu-hinata&" alt="ishu-hinata" /></p>
+
+<video width="320" height="240" scr="https://telegra.ph/file/bb75661425d08997b59fe.mp4">
