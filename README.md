@@ -19,7 +19,7 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishu-hinata&show_icons=true&locale=en" alt="ishu-hinata" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata" /> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ishu-hinata&show_icons=true&locale=en" alt="ishu-hinata" /></p>
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ishu-hinata&" alt="ishu-hinata" /></p>
