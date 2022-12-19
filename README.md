@@ -1,4 +1,4 @@
-![logo](https://te.legra.ph/file/41bae440565b748eaeb5a.mp4)
+![logo](https://telegra.ph/file/064b274eda68beb7b8ca6.jpg)
 <h1 align="center">I'm Shiro An ex-machina</h1>
 <p align="right"> A programmer for fun</p>
 
