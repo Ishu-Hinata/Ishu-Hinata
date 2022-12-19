@@ -5,7 +5,7 @@
 - ♥️Fun fact: **I did your mom last night XD**
 /
 
-![Ei](https://telegra.ph/file/bb75661425d08997b59fe.mp4)
+![Ei](https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu-hinata&label=Profile%20views&color=0e75b6&style=flat" alt="ishu-hinata" /> </p>
 
