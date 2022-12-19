@@ -19,10 +19,10 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata" &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ishu-hinata&show_icons=true&locale=en" alt="ishu-hinata" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata"/>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ishu-hinata&" alt="ishu-hinata" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ishu-hinata&" alt="ishu-hinata" /></p>
 
 <video width="320" height="240" controls>
   <source src=”https://telegra.ph/file/bb75661425d08997b59fe.mp4” type=video/ogg>
