@@ -1,5 +1,8 @@
 <h1 align="center">I'm Shiro An ex-machina</h1>
 <h3 align="center">A programmer for fun</h3>
+- ♥️Reach me: **https://t.me/MaidShiro**
+- ♥️Unhidden Projects [https://t.me/AnimeRobots](https://t.me/AnimeRobots)
+- ♥️Fun fact: **I did your mom last night XD**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu-hinata&label=Profile%20views&color=0e75b6&style=flat" alt="ishu-hinata" /> </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -8,10 +11,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu-hinata" alt="ishu-hinata" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- ♥️Reach me: **https://t.me/MaidShiro**
-- ♥️Unhidden Projects [https://t.me/AnimeRobots](https://t.me/AnimeRobots)
-- ♥️Fun fact: **I did your mom last night XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
