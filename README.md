@@ -1,4 +1,4 @@
-<h1 align="center">I'm Shiro, Just an Programmer for fun >~<</h1>
+<h1 align="center">Creativity Is Just Intelligence Having Fun</h1>
 
 <img align="right" alt="Raiden" width="400" src="https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu-hinata&label=Profile%20views&color=0e75b6&style=flat" alt="ishu-hinata" /> </p>
