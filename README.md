@@ -12,10 +12,11 @@
 - ♥️Projects: [Anime-Robots](https://t.me/AnimeRobots)
 - ♥️Fun fact: 
 **I did your mom last night XD**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu-hinata" alt="ishu-hinata" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata"/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu-hinata" alt="ishu-hinata" /></a> </p>
+
 
 <video width="320" height="240" controls>
   <source src=”https://telegra.ph/file/bb75661425d08997b59fe.mp4” type=video/ogg>
