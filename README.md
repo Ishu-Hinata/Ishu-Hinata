@@ -1,5 +1,5 @@
 <!-- Image -->
-<img align="left" alt="Raiden" width="250" src="https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg">
+<img align="left" alt="Raiden" width="250" src="https://telegra.ph/file/40a5a4a0cf98d2731437e.jpg">
 
 <!-- Language and tools logos -->
 <p align="left">
