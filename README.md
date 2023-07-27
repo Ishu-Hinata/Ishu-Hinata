@@ -8,10 +8,9 @@
 
 <h3 align="left">Links</h3>
 
-- ♥️Reach me: **[Shiro💕](https://t.me/MaidShiro)**
+- ♥️Reach me: **[Shiro💕](https://t.me/Maid_Robot)**
 - ♥️Projects: [Anime-Robots](https://t.me/AnimeRobots)
-- ♥️Fun fact: 
-**I did your mom last night XD**
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata"/>
 
