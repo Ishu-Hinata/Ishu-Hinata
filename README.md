@@ -40,28 +40,24 @@
   </tr>
 </table>
 
-# My GitHub Trophies
-
-I'm proud to display my GitHub trophies here. These trophies represent my hard work and dedication to open source software development.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username)](https://github.com/your_username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata)](https://github.com/Ishu-Hinata)
 
 I'm always working to earn more trophies, so stay tuned!
 
 ## Trophies
 
 * **Most Stars**
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Stars)](https://github.com/your_username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Stars)](https://github.com/Ishu-Hinata)
 * **Most Forks**
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Forks)](https://github.com/your_username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Forks)](https://github.com/Ishu-Hinata)
 * **Most Followers**
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Followers)](https://github.com/your_username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Followers)](https://github.com/Ishu-Hinata)
 * **Most Contributions**
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Contributions)](https://github.com/your_username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Contributions)](https://github.com/Ishu-Hinata)
 * **Most Issues Solved**
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Issues Solved)](https://github.com/your_username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Issues%20Solved)](https://github.com/Ishu-Hinata)
 * **Most Pull Requests Merged**
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Pull Requests Merged)](https://github.com/your_username)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Pull%20Requests%20Merged)](https://github.com/Ishu-Hinata)
 
 ## Want to Earn Trophies Too?
 
