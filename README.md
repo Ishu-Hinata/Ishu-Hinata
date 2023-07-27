@@ -1,27 +1,21 @@
-<!-- GitHub Profile README -->
+<img align="right" alt="Profile Picture" width="200" src="https://your-image-url.jpg">
 
-# Creativity Is Just Intelligence Having Fun
+## 🔧 Technologies and Tools
 
-<img align="right" alt="Raiden" width="400" src="https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg">
-
-## 🔧 Languages and Tools:
-<p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 80%
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 8%
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 5%
-  <img src="https://img.icons8.com/color/48/000000/rust.png" alt="Rust" width="40" height="40"/> 5%
-  <img src="https://img.icons8.com/color/48/000000/assembly.png" alt="Assembly" width="40" height="40"/> 2%
-</p>
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) - Proficient (80%)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) - Familiar (8%)
+- C++ ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) - Basic (5%)
+- Rust ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) - Basic (5%)
+- Assembly ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assembly&logoColor=white) - Familiar (2%)
 
 ## 🌐 Links
-- 💕 Reach me: [Shiro💕](https://t.me/Maid_Robot)
-- 💕 Projects: [Anime-Robots](https://t.me/AnimeRobots)
 
-<p>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
-</p>
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 🌐 Personal Website/Portfolio: [Your Website/Portfolio](https://www.yourwebsite.com)
 
 ## GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu-hinata" alt="ishu-hinata" /></a>
-</p>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Add any other badges or shields you want here -->
+
