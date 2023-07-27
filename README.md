@@ -40,6 +40,8 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Stars&theme=dark)](https://github.com/Ishu-Hinata)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Stars&theme=tokyonight)](https://github.com/Ishu-Hinata)
+
+
 
 
