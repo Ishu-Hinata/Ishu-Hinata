@@ -8,6 +8,6 @@
 </a>
 
 <!-- Your logo image with link to your account -->
-<a href="https://YourWebsiteOrSocialMediaLink">
-  <img align="left" alt="Your Logo" width="40" src="https://your-logo-image-url.jpg">
+<a href="https://t.me/AnimeRobots">
+  <img align="left" alt="Your Logo" width="40" src="https://telegra.ph/file/40a5a4a0cf98d2731437e.jpg">
 </a>
