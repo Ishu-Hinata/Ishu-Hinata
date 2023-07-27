@@ -1,5 +1,9 @@
 <!-- GitHub Profile README -->
 
+<img align="left" alt="Creativity Is Just Intelligence Having Fun" width="250" src="https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg">
+
+## Creativity Is Just Intelligence Having Fun
+
 <!-- Telegram logos and links -->
 <a href="https://t.me/Maid_Robot">
   <img align="right" alt="Telegram" width="60" src="https://telegram.org/img/t_logo.svg">
@@ -7,12 +11,6 @@
 <a href="https://t.me/AnimeRobots">
   <img align="right" alt="Anime-Robots" width="60" src="https://telegra.ph/file/85ca4aa6a27c66d8d2771.jpg">
 </a>
-
-<img align="left" alt="Creativity Is Just Intelligence Having Fun" width="250" src="https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg">
-
-
-# Creativity Is Just Intelligence Having Fun
-
 
 ## 🔧 Languages and Tools:
 <p>
