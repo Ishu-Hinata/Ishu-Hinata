@@ -1,10 +1,9 @@
 <!-- GitHub Profile README -->
 
-# Creativity Is Just Intelligence Having Fun
-
 <img align="left" alt="Creativity Is Just Intelligence Having Fun" width="250" src="https://your-image-url-here.jpg">
 
-This text is now behind the image.
+Creativity Is Just Intelligence Having Fun
+
 
 ## 🔧 Languages and Tools:
 <p>
