@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<img align="left" alt="Creativity Is Just Intelligence Having Fun" width="250" src="https://your-image-url-here.jpg">
+<img align="left" alt="Creativity Is Just Intelligence Having Fun" width="250" src="https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg">
 
 Creativity Is Just Intelligence Having Fun
 
