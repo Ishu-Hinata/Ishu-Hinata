@@ -8,6 +8,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Intel_80386_arch.svg" alt="Assembly (x86) Logo" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Mysql.svg" alt="MySQL Logo" height="50">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL Logo" height="50">
 </div>
