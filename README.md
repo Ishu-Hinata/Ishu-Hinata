@@ -8,9 +8,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" height="50">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL Logo" height="50">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="MongoDB Logo" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">
-    
+    <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL Logo" height="80">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="MongoDB Logo" height="80">
 </div>
     
