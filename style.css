@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.slogan-container {
+    text-align: center;
+}
+
+#dynamic-slogan {
+    font-size: 28px;
+    font-weight: bold;
+    color: #007bff; /* You can change the color to any other preferred color */
+}
