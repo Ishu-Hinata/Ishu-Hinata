@@ -39,3 +39,37 @@
     </td>
   </tr>
 </table>
+
+# My GitHub Trophies
+
+I'm proud to display my GitHub trophies here. These trophies represent my hard work and dedication to open source software development.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username)](https://github.com/your_username)
+
+I'm always working to earn more trophies, so stay tuned!
+
+## Trophies
+
+* **Most Stars**
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Stars)](https://github.com/your_username)
+* **Most Forks**
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Forks)](https://github.com/your_username)
+* **Most Followers**
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Followers)](https://github.com/your_username)
+* **Most Contributions**
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Contributions)](https://github.com/your_username)
+* **Most Issues Solved**
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Issues Solved)](https://github.com/your_username)
+* **Most Pull Requests Merged**
+[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&title=Pull Requests Merged)](https://github.com/your_username)
+
+## Want to Earn Trophies Too?
+
+If you're interested in earning GitHub trophies, here are a few things you can do:
+
+* **Contribute to open source projects.** This is the best way to earn trophies.
+* **Star and fork projects that you like.** This helps to show your support for other developers.
+* **Follow other developers.** This helps you to stay up-to-date on the latest open source projects.
+* **Submit issues and pull requests.** This helps to improve open source projects.
+
+I hope this inspires you to start earning GitHub trophies!
