@@ -41,6 +41,12 @@
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Stars&theme=tokyonight)](https://github.com/Ishu-Hinata)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Forks&theme=tokyonight)](https://github.com/Ishu-Hinata)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Followers&theme=tokyonight)](https://github.com/Ishu-Hinata)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Contributions&theme=tokyonight)](https://github.com/Ishu-Hinata)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Issues Solved&theme=tokyonight)](https://github.com/Ishu-Hinata)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Pull Requests Merged&theme=tokyonight)](https://github.com/Ishu-Hinata)
+
 
 
 
