@@ -40,14 +40,20 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Stars&theme=tokyonight)](https://github.com/Ishu-Hinata)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Forks&theme=tokyonight)](https://github.com/Ishu-Hinata)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Followers&theme=tokyonight)](https://github.com/Ishu-Hinata)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Contributions&theme=tokyonight)](https://github.com/Ishu-Hinata)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Issues Solved&theme=tokyonight)](https://github.com/Ishu-Hinata)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ishu-Hinata&title=Pull Requests Merged&theme=tokyonight)](https://github.com/Ishu-Hinata)
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu-hinata&label=Profile%20views&color=0e75b6&style=flat" alt="ishu-hinata" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishu-hinata" alt="ishu-hinata" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu-hinata&show_icons=true&locale=en&layout=compact" alt="ishu-hinata" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishu-hinata&show_icons=true&locale=en" alt="ishu-hinata" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishu-hinata&" alt="ishu-hinata" /></p>
