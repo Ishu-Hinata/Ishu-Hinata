@@ -1,7 +1,6 @@
 <!-- Image -->
 ![Image](https://telegra.ph/file/40a5a4a0cf98d2731437e.jpg)
-
-<!-- Logos in a single row using a grid layout -->
+<!-- Logos in a single row using a grid layout with spacing -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 10px; justify-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" height="50">
@@ -12,4 +11,4 @@
     <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL Logo" height="80">
     <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="MongoDB Logo" height="80">
 </div>
-    
+
