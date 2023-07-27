@@ -1,5 +1,3 @@
-<!-- GitHub Profile README -->
-
 # Creativity Is Just Intelligence Having Fun
 
 <img align="right" alt="Raiden" width="400" src="https://telegra.ph/file/bcf6185b7f596f4cdd21e.jpg">
