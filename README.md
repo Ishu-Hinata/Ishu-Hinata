@@ -39,13 +39,3 @@
     </td>
   </tr>
 </table>
-<!-- Logos with Shields.io badges -->
-![Python Badge](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white)
-
-![Rust Badge](https://img.shields.io/badge/-Rust-orange?logo=rust&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
