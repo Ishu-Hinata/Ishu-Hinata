@@ -49,8 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishu-Hinata&theme=blue-green&hide_border=false" alt="GitHub Streak" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishu-Hinata&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
