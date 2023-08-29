@@ -16,16 +16,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" height="50">
       <br>HTML5
     </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="50">
-      <br>C++
-    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" height="50">
-      <br>Rust
-    </td>
     <td align="center">
       <img src="https://graph.org/file/b4d72fea49f2847b6f09d.png" alt="Redis Logo" height="50">
       <br>Redis
