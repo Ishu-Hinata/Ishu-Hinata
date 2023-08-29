@@ -10,7 +10,7 @@
     </td>
     <td align="center">
       <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="50">
-      <br>JavaScript
+      <br>R
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" height="50">
