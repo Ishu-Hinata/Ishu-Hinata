@@ -9,7 +9,7 @@
       <br>Python
     </td>
     <td align="center">
-      <img src="https://www.r-project.org/logo/Rlogo.svg" alt="JavaScript Logo" height="50">
+      <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="50">
       <br>JavaScript
     </td>
     <td align="center">
