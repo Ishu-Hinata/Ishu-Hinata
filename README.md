@@ -27,8 +27,8 @@
       <br>Rust
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" height="50">
-      <br>PostgreSQL
+      <img src="https://graph.org/file/b4d72fea49f2847b6f09d.png" alt="Redis Logo" height="50">
+      <br>Redis
     </td>
     <td align="center">
       <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="MySQL Logo" height="80">
